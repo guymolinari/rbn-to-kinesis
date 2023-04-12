@@ -1,0 +1,13 @@
+name=callsign, type=UTF8
+name=de_pfx, type=UTF8
+name=de_cont, type=UTF8
+name=freq, type=DOUBLE
+name=band, type=UTF8
+name=dx, type=UTF8
+name=dx_pfx, type=UTF8
+name=dx_cont, type=UTF8
+name=mode, type=UTF8
+name=db, type=INT64
+name=date, type=UTF8
+name=speed, type=INT64
+name=tx_mode, type=UTF8
